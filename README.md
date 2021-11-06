@@ -1,3 +1,5 @@
+![this is img](https://pbs.twimg.com/media/Evjp2AJXcAI8hrC.jpg)
+
 # PlotnaiaZiga
 
 ``` javascript
@@ -9,7 +11,7 @@ do {
 
 while(isAlive)
 
-function c ode() {
+function code() {
   alert('hello world');
 }
 ```
