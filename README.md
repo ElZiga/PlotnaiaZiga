@@ -1,7 +1,7 @@
 # PlotnaiaZiga
 
 ``` javascript
-## let isAlive = true;
+let isAlive = true;
 
 do {
   code();
@@ -9,5 +9,7 @@ do {
 
 while(isAlive)
 
-function
+function c ode() {
+  alert('hello world');
+}
 ```
