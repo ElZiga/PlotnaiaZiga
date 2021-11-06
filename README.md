@@ -15,3 +15,6 @@ function code() {
   alert('hello world');
 }
 ```
+
+# Ссылка на бравл старс
+[this is link](https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ru&gl=US)
