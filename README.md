@@ -1,3 +1,8 @@
 # PlotnaiaZiga
-Hi
-Hitler
+
+## let isAlive = true;
+
+## do {
+##  code();
+## }
+## while(isAlive)
