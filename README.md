@@ -3,8 +3,11 @@
 ``` javascript
 ## let isAlive = true;
 
-## do {
-##  code();
-## }
-## while(isAlive)
+do {
+  code();
+}
+
+while(isAlive)
+
+function
 ```
